@@ -1,0 +1,12 @@
+{
+	"presets" : 
+        {
+                "showGradient": true,
+                "showBars": true,
+                "showCircles": true,
+                "showNoise": false,
+                "showInvert": false,
+                "showEmboss": false,
+                "showRandGrad": false
+        }
+}
